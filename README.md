@@ -1,5 +1,3 @@
-# Customer-Churn-Prediction-Using-ANN
-
 # Customer Churn Prediction Using Artificial Neural Networks
 
 ![Customer Churn Prediction](insert-image-link-here)
